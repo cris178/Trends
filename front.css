@@ -9,6 +9,7 @@ body{
 }
 .mainHero{
     height: 500px;
+    display:block;
 }
 .about{
     background-color:white;
