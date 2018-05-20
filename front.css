@@ -20,11 +20,11 @@ body{
     display:block;
 }
 
-.about:first-of-type{
+#about:first-of-type{
     margin-left: 0px;
 }
 
-.about{
+#about{
     margin-top: 60px;
     margin-left: 20px;
     background-color:white;
