@@ -20,9 +20,7 @@ body{
     height: 400px;
     display:block;
 }
-.col-lg-4{
-    
-}
+
 #about{
     margin-top: 60px;
     background-color:white;
@@ -45,5 +43,8 @@ body{
 @media all and(min-width:576px){
     .container{
         max-width:540px;
+    }
+    #about{
+        margin-top: 0px;
     }
 }
