@@ -15,7 +15,7 @@ body{
     margin-right:auto;
     color:black;
     background-color:white;
-    display: block;
+    width: 100%;
 }
 .mainHero{
     height: 400px;
