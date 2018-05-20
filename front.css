@@ -12,12 +12,19 @@ body{
     padding-right:20px;
     margin-left:auto;
     margin-right:auto;
+    color:black;
 }
 .mainHero{
     height: 400px;
     display:block;
 }
+
+.about:first-of-type{
+    margin-left: 0px;
+}
+
 .about{
+    margin-left: 20px;
     background-color:white;
     height:600px;
     display:block;
