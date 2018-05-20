@@ -14,6 +14,7 @@ body{
     margin-right:auto;
     color:black;
     background-color:white;
+    display: block;
 }
 .mainHero{
     height: 400px;
@@ -28,6 +29,6 @@ body{
     margin-top: 60px;
     margin-left: 20px;
     background-color:white;
-    height:600px;
-    
+    height:900px;
+
 }
