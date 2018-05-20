@@ -7,9 +7,11 @@ body{
     background-color: #20232C;
     height:50px;
 }
-
+.mainHero{
+    height: 500px;
+}
 .about{
     background-color:white;
-    height:800px;
+    height:300px;
     display:block;
 }
